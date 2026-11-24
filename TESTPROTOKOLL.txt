@@ -1,0 +1,72 @@
+[
+  [
+    "10-µm-Anker",
+    "PASS"
+  ],
+  [
+    "IR-Quotient",
+    "PASS"
+  ],
+  [
+    "Doppler ±0,6",
+    "PASS"
+  ],
+  [
+    "Planck c",
+    "PASS"
+  ],
+  [
+    "Planck G (Rückrechnung)",
+    "PASS"
+  ],
+  [
+    "Schwarzschild Rückrechnung",
+    "PASS"
+  ],
+  [
+    "3D Phase",
+    "PASS"
+  ],
+  [
+    "Alias-Abbruch",
+    "PASS"
+  ],
+  [
+    "NS Referenzmaximum (M,R)",
+    "PASS"
+  ],
+  [
+    "Metrik und Enthalpie",
+    "PASS"
+  ],
+  [
+    "Halo Referenz",
+    "PASS"
+  ],
+  [
+    "FLRW Kompaktheit",
+    "PASS"
+  ],
+  [
+    "Ising Reproduzierbarkeit",
+    "PASS"
+  ]
+]
+beta 0 M/Msun 2.1778229393009987 R/km 11.495250587136532 IR/um 15.067392046557702
+beta 0.004 M/Msun 2.192519321145901 R/km 11.760947455416803 IR/um 14.91661066553329
+beta 0.009 M/Msun 2.2122311903287413 R/km 12.10602546014425 IR/um 14.73918846746236
+beta 0.018 M/Msun 2.2515443016750543 R/km 12.781653354434578 IR/um 14.437421986904893
+
+Chromium set_content (file:// im Testsystem administrativ blockiert):
+Initialisierung aller Module: PASS
+Selbsttests UI: PASS
+NS-Massenmaximum: PASS
+NS→IR→3D: PASS
+Halo→IR→3D: PASS
+G-Rückrechnung: PASS
+Aliasabbruch: PASS
+100 Ising-Sweeps: PASS
+Ising Reset: PASS
+JSON Export: PASS
+Mobile Breite: PASS
+Keine JavaScript-Laufzeitfehler: PASS
