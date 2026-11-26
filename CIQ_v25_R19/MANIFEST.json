@@ -1,0 +1,41 @@
+{
+  "archive": "CIQ_v25_R19_DOKUMENTATION_FULLCODE.zip",
+  "sha256": "6a8b3354244f1470583273d8046e4bb323d78ba82d1024f1b2f5abc2a6811496",
+  "parts": [
+    {
+      "file": "CIQ_v25_R19_DOKUMENTATION_FULLCODE.zip.part01",
+      "bytes": 24000000,
+      "sha256": "da568c056abe047802f1f9ca5ef15d5bfc1ce66ddb0d4fce121f7b1ef27f15b8"
+    },
+    {
+      "file": "CIQ_v25_R19_DOKUMENTATION_FULLCODE.zip.part02",
+      "bytes": 24000000,
+      "sha256": "a62c2a860b53ba3294f0611a79ca877c9c4eb625eca8d73281420a8efb247b7e"
+    },
+    {
+      "file": "CIQ_v25_R19_DOKUMENTATION_FULLCODE.zip.part03",
+      "bytes": 24000000,
+      "sha256": "bd97038511a74f9b30a711da18d1a7481e92c7a09b63bf52dae53ba0a91cd160"
+    },
+    {
+      "file": "CIQ_v25_R19_DOKUMENTATION_FULLCODE.zip.part04",
+      "bytes": 24000000,
+      "sha256": "03dadec542d055e606c3965c16770efb51286b9eb8f3a873788f0f08eeb508d3"
+    },
+    {
+      "file": "CIQ_v25_R19_DOKUMENTATION_FULLCODE.zip.part05",
+      "bytes": 24000000,
+      "sha256": "d7b44182d2aef2da815c0b39d06a988d65f8d71e1026e4e2c4fde39388679612"
+    },
+    {
+      "file": "CIQ_v25_R19_DOKUMENTATION_FULLCODE.zip.part06",
+      "bytes": 24000000,
+      "sha256": "ce9f7b40270aee2efa12d786cccc2bb2428bf454fe72ed919119028110dd4a3f"
+    },
+    {
+      "file": "CIQ_v25_R19_DOKUMENTATION_FULLCODE.zip.part07",
+      "bytes": 15832889,
+      "sha256": "e29ea68a8e1eb4af91820ed50a426d2a79b6071d086fb4d32591b230b08500b7"
+    }
+  ]
+}
